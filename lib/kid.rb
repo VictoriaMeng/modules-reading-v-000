@@ -4,7 +4,7 @@ require_relative './class_methods_module.rb'
 class Kid
   extend FancyDance::ClassMethods
   extend FancyDance::InstanceMethods
-    
+
   end
 
   attr_accessor :name
