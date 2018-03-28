@@ -1,2 +1,2 @@
-class dance_module
+module Dance 
 end
